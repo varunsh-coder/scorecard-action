@@ -48,6 +48,6 @@ branding:
 
 runs:
   using: "docker"
-  image: "docker://varunsharma07/scorecard:latest"
+  image: "docker://varunsharma07/scorecard-action:latest"
 
 
